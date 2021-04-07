@@ -21,7 +21,6 @@ This is paragraph 03.
 3. Item 3
 
 ### Syentax highliting
-<pre></pre>
 
 ```python
 def print_status():
@@ -36,6 +35,6 @@ In statements, use `backquote` to emphasize specific word.
 ---
 
 `<img></img>`
+```
 <img src='img src' width='200px' height='100px'>
-
-
+```
